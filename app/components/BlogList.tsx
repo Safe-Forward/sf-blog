@@ -19,7 +19,6 @@ type SortOption = "newest" | "oldest" | "az";
 
 export default function BlogList({ posts }: { posts: Post[] }) {
   const [activeCategory, setActiveCategory] = useState<string | null>(null);
-  const [activeTag, setActiveTag] = useState<string | null>(null);
   const [sort, setSort] = useState<SortOption>("newest");
   const [search, setSearch] = useState("");
 
@@ -28,16 +27,10 @@ export default function BlogList({ posts }: { posts: Post[] }) {
     [posts]
   );
 
-  const allTags = useMemo(
-    () => Array.from(new Set(posts.flatMap((p) => p.tags))).sort(),
-    [posts]
-  );
-
   const filtered = useMemo(() => {
     let result = posts;
 
     if (activeCategory) result = result.filter((p) => p.category === activeCategory);
-    if (activeTag) result = result.filter((p) => p.tags.includes(activeTag));
     if (search.trim()) {
       const q = search.toLowerCase();
       result = result.filter(
@@ -53,16 +46,15 @@ export default function BlogList({ posts }: { posts: Post[] }) {
       if (sort === "oldest") return new Date(a.date).getTime() - new Date(b.date).getTime();
       return a.title.localeCompare(b.title, "de");
     });
-  }, [posts, activeCategory, activeTag, sort, search]);
+  }, [posts, activeCategory, sort, search]);
 
   function resetFilters() {
     setActiveCategory(null);
-    setActiveTag(null);
     setSearch("");
     setSort("newest");
   }
 
-  const hasActiveFilter = activeCategory || activeTag || search.trim();
+  const hasActiveFilter = activeCategory || search.trim();
 
   return (
     <div>
@@ -116,25 +108,6 @@ export default function BlogList({ posts }: { posts: Post[] }) {
         </div>
       </div>
 
-      {/* Tag filter */}
-      <div className="mb-6">
-        <p className="text-xs font-semibold text-gray-400 uppercase tracking-wide mb-2">Keywords</p>
-        <div className="flex flex-wrap gap-2">
-          {allTags.map((tag) => (
-            <button
-              key={tag}
-              onClick={() => setActiveTag(activeTag === tag ? null : tag)}
-              className={`px-2.5 py-0.5 rounded-full text-xs font-medium border transition-colors ${
-                activeTag === tag
-                  ? "bg-[#0E6E5C] text-white border-[#0E6E5C]"
-                  : "bg-gray-50 text-gray-500 border-gray-200 hover:border-[#0E6E5C] hover:text-[#0E6E5C]"
-              }`}
-            >
-              {tag}
-            </button>
-          ))}
-        </div>
-      </div>
 
       {/* Results header */}
       <div className="flex items-center justify-between mb-4">
@@ -172,20 +145,6 @@ export default function BlogList({ posts }: { posts: Post[] }) {
                   {post.title}
                 </h2>
                 <p className="text-gray-600 leading-relaxed mb-4 text-sm">{post.description}</p>
-
-                {/* Tags */}
-                {post.tags.length > 0 && (
-                  <div className="flex flex-wrap gap-1.5 mb-4">
-                    {post.tags.map((tag) => (
-                      <span
-                        key={tag}
-                        className="px-2 py-0.5 bg-gray-50 text-gray-500 border border-gray-200 rounded-full text-xs"
-                      >
-                        {tag}
-                      </span>
-                    ))}
-                  </div>
-                )}
 
                 <div className="flex items-center justify-between">
                   <span className="text-xs text-gray-400">
