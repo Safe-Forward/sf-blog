@@ -13,6 +13,7 @@ export interface Post {
   date: string;
   author: string;
   category: string;
+  tags: string[];
   content: string;
   readingTime: string;
 }
@@ -46,6 +47,7 @@ export function getPostBySlug(slug: string): Post | null {
       date: data.date,
       author: data.author,
       category: data.category,
+      tags: Array.isArray(data.tags) ? data.tags : [],
       content,
       readingTime,
     };

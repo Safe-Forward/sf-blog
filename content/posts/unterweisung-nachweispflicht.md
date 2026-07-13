@@ -3,7 +3,8 @@ title: "Unterweisung Nachweispflicht: Was Arbeitgeber dokumentieren müssen"
 description: "Arbeitssicherheitsunterweisungen sind Pflicht – aber wie müssen sie dokumentiert werden? Alles zur Nachweispflicht, Fristen und rechtssicheren Dokumentation."
 date: "2026-07-13"
 author: "Safe Forward Redaktion"
-category: "Arbeitsschutz"
+category: "Unterweisungen"
+tags: ["Unterweisung", "Nachweispflicht", "Dokumentation", "Digitale Unterschrift", "Aufbewahrungsfrist"]
 ---
 
 Wer Mitarbeiter unterweist, muss das nachweisen können. Klingt einfach — doch in der Praxis scheitern viele Betriebe genau an dieser Anforderung. Fehlende Unterschriften, verlorene Formulare, keine klare Zuständigkeit. Dieser Ratgeber zeigt, was die Nachweispflicht bei Unterweisungen konkret bedeutet und wie Sie sie rechtssicher erfüllen.

@@ -4,6 +4,7 @@ description: "Fehlende Sicherheitsunterweisungen können teuer werden. Welche Bu
 date: "2026-07-13"
 author: "Safe Forward Redaktion"
 category: "Arbeitsrecht"
+tags: ["Bußgeld", "Unterweisung", "Haftung", "Sanktionen", "Betriebsprüfung"]
 ---
 
 Eine fehlende Sicherheitsunterweisung ist nicht nur ein organisatorisches Versäumnis — sie kann empfindliche Bußgelder, zivilrechtliche Haftung und in schwerwiegenden Fällen sogar strafrechtliche Konsequenzen nach sich ziehen. Dieser Ratgeber zeigt, welche Sanktionen konkret drohen und wie Sie als Arbeitgeber auf der sicheren Seite bleiben.

@@ -3,7 +3,8 @@ title: "Arbeitsschutz Pflichten Arbeitgeber: Die vollständige Checkliste 2026"
 description: "Welche Arbeitsschutzpflichten haben Arbeitgeber in Deutschland? Diese Checkliste zeigt alle gesetzlichen Anforderungen – von der Gefährdungsbeurteilung bis zur Unterweisung."
 date: "2026-07-13"
 author: "Safe Forward Redaktion"
-category: "Arbeitsschutz"
+category: "Arbeitgeberpflichten"
+tags: ["Checkliste", "Pflichten", "Arbeitgeber", "KMU", "ArbSchG", "Sifa", "Erste Hilfe"]
 ---
 
 Als Arbeitgeber tragen Sie die Gesamtverantwortung für den Arbeitsschutz in Ihrem Betrieb — unabhängig von Branche oder Unternehmensgröße. Diese Checkliste gibt Ihnen einen vollständigen Überblick über alle zentralen Pflichten, die das Arbeitsschutzgesetz, die DGUV-Vorschriften und weitere Regelwerke vorschreiben.

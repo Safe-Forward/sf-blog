@@ -4,7 +4,7 @@ description: "Wie Sie eine rechtssichere Gefährdungsbeurteilung in 7 Schritten 
 date: "2026-07-12"
 author: "Safe Forward Redaktion"
 category: "Arbeitsschutz"
-image: "/images/gefaehrdungsbeurteilung.jpg"
+tags: ["Gefährdungsbeurteilung", "Dokumentation", "Pflichten", "KMU", "7 Schritte"]
 ---
 
 Eine Gefährdungsbeurteilung ist keine Kür — sie ist gesetzliche Pflicht. Und doch kämpfen viele kleine und mittlere Unternehmen mit denselben Fragen: Wo fange ich an? Was muss rein? Und wie halte ich das Dokument aktuell? Diese Anleitung zeigt Ihnen, wie Sie eine rechtssichere Gefährdungsbeurteilung in 7 Schritten erstellen — ohne juristische Vorkenntnisse, ohne Beraterkosten.
