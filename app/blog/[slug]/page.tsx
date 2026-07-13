@@ -35,8 +35,40 @@ export default async function BlogPost({ params }: Props) {
 
   const { post, contentHtml } = result;
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: post.title,
+    description: post.description,
+    datePublished: post.date,
+    dateModified: post.date,
+    author: {
+      "@type": "Organization",
+      name: "Safe Forward Redaktion",
+      url: "https://www.safe-forward.de",
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "Safe Forward",
+      url: "https://www.safe-forward.de",
+      logo: {
+        "@type": "ImageObject",
+        url: "https://blog.safe-forward.de/logo-icon.svg",
+      },
+    },
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `https://blog.safe-forward.de/blog/${slug}`,
+    },
+    image: `https://blog.safe-forward.de/blog/${slug}/opengraph-image`,
+  };
+
   return (
     <div className="max-w-3xl mx-auto px-4 py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <Link href="/" className="text-blue-600 text-sm hover:underline flex items-center gap-1 mb-8">
         ← Zurück zum Blog
       </Link>

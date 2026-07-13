@@ -135,6 +135,34 @@ Auch Betriebe mit wenigen Mitarbeitern sind nicht von den Grundpflichten befreit
 
 In Kleinstbetrieben kann der Unternehmer viele Aufgaben selbst übernehmen — etwa über das **Unternehmermodell** der Berufsgenossenschaft, das Sifa- und Betriebsarztpflichten durch eigene Qualifizierung ersetzt.
 
+## Vertiefende Artikel zu einzelnen Pflichtbereichen
+
+- [Gefährdungsbeurteilung erstellen: Die 7 Schritte](/blog/gefaehrdungsbeurteilung-erstellen) — vollständige Schritt-für-Schritt-Anleitung
+- [Gefährdungsbeurteilung Vorlage: Kostenlos & rechtssicher](/blog/gefaehrdungsbeurteilung-vorlage) — Vorlage mit Ausfüllhilfe
+- [Unterweisung Nachweispflicht: Was Arbeitgeber wissen müssen](/blog/unterweisung-nachweispflicht) — rechtssichere Dokumentation
+- [Bußgeld für fehlende Unterweisung](/blog/bussgeld-fehlende-unterweisung) — Sanktionen und Haftungsrisiken
+- [ArbSchG 2026: Alle Pflichten im Detail](/blog/arbschg-pflichten-2026) — Paragrafen und Bußgelder erklärt
+
+## Häufige Fragen (FAQ)
+
+**Gilt die Gefährdungsbeurteilungspflicht auch für Homeoffice-Mitarbeiter?**
+Ja. Wer Mitarbeitern regelmäßiges Homeoffice ermöglicht, muss die Arbeitsbedingungen im Homeoffice in die Gefährdungsbeurteilung einbeziehen — inklusive Bildschirmarbeitsplatzbewertung und ergonomischer Hinweise.
+
+**Ab wie vielen Mitarbeitern brauche ich einen Betriebsrat?**
+Ab fünf ständig beschäftigten wahlberechtigten Arbeitnehmern kann ein Betriebsrat gewählt werden (BetrVG §1). Es gibt keine Verpflichtung für den Arbeitgeber, einen Betriebsrat einzusetzen — aber eine Verpflichtung, ihn zu tolerieren und zu informieren.
+
+**Muss ich als Arbeitgeber alle Unterweisungen selbst durchführen?**
+Nein. Unterweisungen können an qualifizierte Führungskräfte oder Sicherheitsbeauftragte delegiert werden — schriftlich und mit klarer Aufgabenbeschreibung. Die Gesamtverantwortung verbleibt beim Arbeitgeber.
+
+**Was ist das Unternehmermodell der Berufsgenossenschaft?**
+Kleinstbetrieben mit geringer Gefährdung ermöglicht das Unternehmermodell, die Pflicht zur Sifa-Bestellung durch eigene Qualifizierung zu erfüllen. Der Unternehmer absolviert entsprechende BG-Seminare und übernimmt damit selbst die sicherheitstechnische Betreuung seines Betriebs.
+
+**Welche Folgen hat es, wenn ein Mitarbeiter bei einer fehlenden PSA-Unterweisung verletzt wird?**
+Der Arbeitgeber haftet primär: keine PSA-Unterweisung = Verletzung der Fürsorgepflicht. Die Berufsgenossenschaft kann Regress nehmen; bei grober Fahrlässigkeit drohen Bußgelder bis 50.000 € und persönliche Haftung.
+
+**Wie oft müssen Ersthelfer neu ausgebildet werden?**
+Ersthelferausbildungen müssen alle zwei Jahre aufgefrischt werden. Der Ersthelfer-Kurs hat keine unbegrenzte Gültigkeit. Der Arbeitgeber ist verantwortlich dafür, dass die Auffrischungen rechtzeitig stattfinden.
+
 ## Arbeitsschutzpflichten digital verwalten
 
 Die größte Herausforderung für die meisten Betriebe ist nicht das Wissen *was* zu tun ist — sondern den Überblick zu behalten *wann* was zu tun ist. Unterweisungen, Prüffristen, Wirksamkeitskontrollen: Ohne System entstehen Lücken.

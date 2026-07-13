@@ -131,6 +131,34 @@ Viele Betriebe erstellen einmalig eine GBU und legen sie dann in die Schublade. 
 **❌ Maßnahmen ohne Verantwortliche**
 "Wir machen das irgendwann" ist keine Maßnahme. Ohne Namen und Datum bleibt die GBU wirkungslos.
 
+## Vorlagen und weitere Ressourcen
+
+Für den schnellen Einstieg: [Gefährdungsbeurteilung Vorlage: Kostenlos & rechtssicher](/blog/gefaehrdungsbeurteilung-vorlage) — mit Ausfüllhilfe und Beispielen für alle Pflichtfelder.
+
+Die vollständigen rechtlichen Grundlagen erklärt: [ArbSchG 2026: Alle Pflichten des Arbeitsschutzgesetzes](/blog/arbschg-pflichten-2026)
+
+Die komplette Übersicht aller Arbeitgeberpflichten: [Arbeitsschutz Pflichten Arbeitgeber – Checkliste 2026](/blog/arbeitsschutz-pflichten-arbeitgeber)
+
+## Häufige Fragen (FAQ)
+
+**Muss jeder Arbeitgeber eine Gefährdungsbeurteilung erstellen?**
+Ja. §5 ArbSchG gilt ab dem ersten Beschäftigten, unabhängig von Branche, Unternehmensgröße oder Rechtsform. Auch Minijob-Arbeitgeber sind zur GBU verpflichtet.
+
+**Wie oft muss die Gefährdungsbeurteilung aktualisiert werden?**
+Bei jeder relevanten Änderung der Arbeitsbedingungen sofort, nach Arbeitsunfällen, und mindestens alle 3–5 Jahre im Rahmen einer Routineprüfung. In der Praxis empfiehlt sich eine jährliche Sichtprüfung.
+
+**Kann die Gefährdungsbeurteilung auch digital erstellt werden?**
+Ja, vollständig. Digitale GBUs sind rechtlich anerkannt und werden zunehmend bevorzugt, weil sie Versionierung, Fristenverfolgung und Exportfunktionen für Betriebsprüfungen mitbringen.
+
+**Was kostet eine externe Gefährdungsbeurteilung durch einen Berater?**
+Externe Berater berechnen je nach Betriebsgröße und Komplexität zwischen 500 und 5.000 € für eine vollständige GBU. Mit einer geeigneten Software kann ein Arbeitgeber die GBU selbst erstellen und diese Kosten einsparen.
+
+**Was passiert, wenn bei einer Betriebsprüfung keine GBU vorliegt?**
+Bußgeld bis 5.000 € nach §25 ArbSchG, plus Fristsetzung zur Nachbesserung. Bei Unfallbezug kann sich das zu Bußgeldern bis 25.000 € und strafrechtlichen Konsequenzen ausweiten.
+
+**Müssen auch psychische Belastungen in die GBU aufgenommen werden?**
+Ja, seit 2013 verpflichtend (§5 Abs. 3 Nr. 6 ArbSchG). Schichtarbeit, Zeitdruck, Monotonie, Mobbing — all das muss beurteilt werden. Viele Betriebe übersehen diesen Punkt noch immer.
+
 ## Gefährdungsbeurteilung digital erstellen — so sparen KMU Zeit
 
 Wer die Gefährdungsbeurteilung noch mit Excel-Tabellen oder Word-Dokumenten verwaltet, kennt das Problem: Dateien werden überschrieben, Zuständigkeiten gehen verloren, und beim nächsten Audit sucht man 20 Minuten nach der aktuellen Version.

@@ -89,6 +89,31 @@ Ja — digitale Unterweisungen mit elektronischer Signatur sind rechtlich anerka
 
 **Voraussetzung:** Das verwendete System muss die Zuordnung von Unterschrift und Person eindeutig und manipulationssicher dokumentieren — ein einfaches Häkchen ohne Login reicht nicht.
 
+## Verwandte Themen
+
+Was droht, wenn Unterweisungsnachweise bei einer Betriebsprüfung fehlen: [Bußgeld für fehlende Unterweisung: Welche Strafen drohen?](/blog/bussgeld-fehlende-unterweisung)
+
+Wie digitale Unterweisungen rechtssicher umgesetzt werden: [Digitale Sicherheitsunterweisung: Alles was Sie wissen müssen](/blog/digitale-sicherheitsunterweisung)
+
+Alle Arbeitgeberpflichten im Überblick: [Arbeitsschutz Pflichten Arbeitgeber – Checkliste 2026](/blog/arbeitsschutz-pflichten-arbeitgeber)
+
+## Häufige Fragen (FAQ)
+
+**Reicht es, wenn der Mitarbeiter die Teilnahmeliste unterschreibt?**
+Nein. Die Unterschrift auf einer kollektiven Teilnahmeliste ohne individuelle Zuordnung zum Unterweisungsinhalt ist nicht ausreichend. Jeder Mitarbeiter muss individuell nachweislich bestätigt haben, *was* Inhalt der Unterweisung war — nicht nur *dass* er dabei war.
+
+**Können Unterweisungen per E-Mail oder Video durchgeführt werden?**
+Ja, wenn der Inhalt vollständig vermittelt wird und die Kenntnisnahme individuell dokumentiert wird (z.B. per elektronischer Unterschrift nach dem Video). Ein reines Video ohne Bestätigung der Teilnahme ist kein rechtssicherer Nachweis.
+
+**Müssen Unterweisungen immer in der Landessprache stattfinden?**
+Ja. Unterweisungen müssen für den Mitarbeiter verständlich sein — das schließt Fremdsprachigkeit ein. Wer einen Mitarbeiter unterweist, der kein Deutsch versteht, muss entweder in dessen Sprache unterweisen oder einen Dolmetscher hinzuziehen.
+
+**Was gilt als "rechtzeitige" Erstunterweisung?**
+Vor Aufnahme der Tätigkeit bedeutet: bevor der Mitarbeiter an dem Arbeitsplatz oder mit dem Arbeitsmittel arbeitet — nicht am ersten offiziellen Arbeitstag, sondern im Zweifel am Morgen davor oder beim Onboarding.
+
+**Gilt die 2-Jahres-Aufbewahrungspflicht auch für Unterweisungen, die per App durchgeführt wurden?**
+Ja. Die Aufbewahrungspflicht gilt unabhängig vom Medium. Digitale Unterweisungsplattformen speichern Nachweise revisionssicher und prüfungsbereit — was bei Papierlisten deutlich schwieriger zu gewährleisten ist.
+
 ## Unterweisungen digital verwalten — so funktioniert es mit Safe Forward
 
 Safe Forward digitalisiert den gesamten Unterweisungsprozess:
