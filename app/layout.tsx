@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import Image from "next/image";
+import Script from "next/script";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -22,19 +24,29 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="de">
+      <head>
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-GZ7G9PR77C" strategy="afterInteractive" />
+        <Script id="ga4" strategy="afterInteractive">{`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-GZ7G9PR77C');
+        `}</Script>
+      </head>
       <body className={inter.className}>
         <header className="bg-white border-b border-gray-200 sticky top-0 z-50">
-          <div className="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between">
-            <a href="https://www.safe-forward.de" className="flex items-center gap-2">
-              <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#2563eb" strokeWidth="2">
-                <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
-              </svg>
-              <span className="font-semibold text-gray-900">Safe Forward</span>
-              <span className="text-gray-400 font-normal ml-1">/ Blog</span>
+          <div className="max-w-4xl mx-auto px-4 py-3 flex items-center justify-between">
+            <a href="https://www.safe-forward.de" className="flex items-center gap-3">
+              <Image src="/logo-icon.svg" alt="Safe Forward" width={36} height={36} />
+              <span className="font-extrabold text-[#161B33] text-lg tracking-tight">
+                Safe<span className="text-[#0E6E5C]">-Forward</span>
+              </span>
+              <span className="text-gray-300 font-normal">|</span>
+              <span className="text-gray-500 text-sm font-medium">Blog</span>
             </a>
             <a
               href="https://www.safe-forward.de/register"
-              className="bg-blue-600 text-white text-sm font-medium px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors"
+              className="bg-[#0E6E5C] text-white text-sm font-semibold px-4 py-2 rounded-lg hover:bg-[#0a5a4a] transition-colors"
             >
               Kostenlos testen
             </a>
