@@ -11,27 +11,33 @@ Wer Mitarbeiter unterweist, muss das nachweisen können. Klingt einfach — doch
 
 ## Was ist eine Unterweisung im Sinne des Arbeitsschutzes?
 
-Eine Arbeitsschutzunterweisung ist die mündliche oder schriftliche Vermittlung von Kenntnissen und Verhaltensweisen, die Mitarbeiter benötigen, um ihre Arbeit sicher ausführen zu können. Sie ist kein "nice to have" — sie ist gesetzliche Pflicht nach **§12 Arbeitsschutzgesetz (ArbSchG)**.
+Eine Arbeitsschutzunterweisung ist die Vermittlung von Kenntnissen und Verhaltensweisen, die Mitarbeiter benötigen, um ihre Arbeit sicher ausführen zu können. Sie ist kein "nice to have" — sie ist gesetzliche Pflicht nach **§ 12 Arbeitsschutzgesetz (ArbSchG)**.
 
 Unterweisungen müssen:
 - **vor Aufnahme der Tätigkeit** stattfinden
 - bei Änderungen von Arbeitsbedingungen, Arbeitsmitteln oder Gefahrstoffen **wiederholt** werden
-- **regelmäßig** erfolgen — mindestens einmal jährlich, in vielen Bereichen häufiger
+- **regelmäßig** erfolgen — mindestens einmal jährlich (§ 4 Abs. 1 DGUV Vorschrift 1), für Jugendliche mindestens halbjährlich (§ 29 Abs. 2 JArbSchG)
 - auf die konkrete Tätigkeit und den Arbeitsplatz **zugeschnitten** sein
 
 Allgemeine Unterweisungen ("Seien Sie vorsichtig") reichen rechtlich nicht aus.
 
 ## Gibt es eine gesetzliche Nachweispflicht?
 
-Ja. **§12 ArbSchG i.V.m. § 4 DGUV Vorschrift 1** verpflichten den Arbeitgeber dazu, Unterweisungen zu dokumentieren und die Unterlagen **mindestens zwei Jahre** aufzubewahren. Bei Betriebsprüfungen durch die Berufsgenossenschaft oder das Gewerbeaufsichtsamt müssen diese Nachweise vorgelegt werden können.
+Ja. Die Unterweisung schreibt **§ 12 ArbSchG** vor, ihre Dokumentation **§ 4 Abs. 1 DGUV Vorschrift 1**: Die Unterweisung „muss dokumentiert werden“. Bei Betriebsprüfungen durch die Berufsgenossenschaft oder das Gewerbeaufsichtsamt müssen diese Nachweise vorgelegt werden können.
 
-Wichtig: Die Dokumentation muss nicht nur belegen, *dass* unterwiesen wurde, sondern auch *was* Inhalt der Unterweisung war.
+Wichtig: Die Dokumentation sollte nicht nur belegen, *dass* unterwiesen wurde, sondern auch *was* Inhalt der Unterweisung war. Für einige Themen ist das vorgeschrieben.
 
 ## Was muss der Nachweis enthalten?
 
-Ein rechtssicherer Unterweisungsnachweis enthält mindestens:
+Eine bestimmte Form oder Unterschriften schreibt die DGUV Vorschrift 1 nicht vor (DGUV Regel 100-001 Nr. 2.3.1). Strenger sind einzelne Verordnungen:
 
-| Pflichtangabe | Warum wichtig |
+- **Gefahrstoffe, Biostoffe:** Inhalt und Zeitpunkt schriftlich, Unterschrift der Unterwiesenen (§ 14 Abs. 2 GefStoffV, § 14 Abs. 3 BioStoffV)
+- **Strahlenschutz:** Inhalt und Zeitpunkt unverzüglich aufzeichnen, Unterschrift der unterwiesenen Person (§ 63 Abs. 6 StrlSchV)
+- **Arbeitsmittel:** Datum und Namen der Unterwiesenen schriftlich (§ 12 Abs. 1 BetrSichV)
+
+Ein Nachweis, der alle diese Vorgaben erfüllt, enthält mindestens:
+
+| Angabe | Warum wichtig |
 |---|---|
 | Datum der Unterweisung | Nachweis der Rechtzeitigkeit |
 | Name des Unterweisenden | Verantwortlichkeit |
@@ -39,17 +45,19 @@ Ein rechtssicherer Unterweisungsnachweis enthält mindestens:
 | Thema / Inhalt der Unterweisung | Inhaltliche Prüfbarkeit |
 | Unterschrift des Mitarbeiters | Bestätigung der Teilnahme |
 
-Die Unterschrift des Mitarbeiters ist kein juristisches Beiwerk — sie ist der wichtigste Teil des Nachweises. Ohne sie bleibt der Nachweis anfechtbar.
+Die Unterschrift des Mitarbeiters ist kein juristisches Beiwerk: Auch wo sie nicht vorgeschrieben ist, erleichtert sie den Nachweis, dass genau diese Person unterwiesen wurde (DGUV Regel 100-001 Nr. 2.3.1).
+
+Ein Beispiel: unsere [Vorlage Unterweisungsnachweis (PDF)](https://www.safe-forward.de/vorlagen/unterweisungsnachweis-zahnarztpraxis.pdf) für Zahnarztpraxen, mit Unterschriftsfeldern für jede teilnehmende Person.
 
 ## Wie lange müssen Unterweisungsnachweise aufbewahrt werden?
 
-Die Mindestaufbewahrungsfrist beträgt **2 Jahre** (DGUV Vorschrift 1, § 4). Für Unterweisungen im Umgang mit Gefahrstoffen oder in bestimmten Branchen (z.B. Bau, Elektro) gelten längere Fristen — teils bis zu **30 Jahre**, wenn gesundheitliche Langzeitschäden möglich sind.
+Eine allgemeine gesetzliche Aufbewahrungsfrist gibt es nicht: Weder das ArbSchG noch § 4 DGUV Vorschrift 1 nennen eine, ebenso wenig die Unterweisungsvorschriften von GefStoffV, BioStoffV und BetrSichV. Feste Fristen gibt es nur vereinzelt, etwa **fünf Jahre** für Aufzeichnungen über Strahlenschutzunterweisungen (§ 63 Abs. 6 StrlSchV).
 
-**Empfehlung:** Bewahren Sie alle Unterweisungsnachweise mindestens **5 Jahre** auf. Das schützt Sie bei verzögert auftretenden Arbeitsunfällen oder Berufserkrankungen.
+**Unsere Empfehlung:** Bewahren Sie alle Unterweisungsnachweise mindestens **5 Jahre** auf. Das deckt die Strahlenschutzfrist ab, und Sie können frühere Unterweisungen auch nach einem Unfall oder bei einer Berufserkrankung noch belegen.
 
 ## Welche Unterweisungen brauchen einen eigenen Nachweis?
 
-Nicht jede Unterweisung ist gleich. Diese Arten benötigen zwingend einen schriftlichen Nachweis:
+Nicht jede Unterweisung ist gleich. Diese Arten müssen Sie in jedem Fall dokumentieren, für einige gelten strengere Vorgaben:
 
 **Regelmäßige Jahresunterweisungen**
 Jährlich für alle Mitarbeiter. Themen: allgemeiner Arbeitsschutz, Notfallverhalten, Brandschutz.
@@ -61,21 +69,21 @@ Vor Arbeitsbeginn für jeden neuen Mitarbeiter, Auszubildenden oder Leiharbeitne
 Bei Einführung neuer Maschinen, Arbeitsmittel oder Verfahren; nach Arbeitsunfällen; bei geänderten Gefährdungslagen.
 
 **Gefahrstoffunterweisungen**
-Verpflichtend nach **§14 GefStoffV** bei Tätigkeiten mit gefährlichen Stoffen — mit besonders strikten Dokumentationspflichten.
+Verpflichtend nach **§ 14 Abs. 2 GefStoffV** bei Tätigkeiten mit Gefahrstoffen, außer bei nur geringer Gefährdung (§ 6 Abs. 13 GefStoffV) — mündlich, mindestens jährlich, mit schriftlichem Nachweis und Unterschrift.
 
 **PSA-Unterweisungen**
-Pflicht nach **§12 PSA-BV**, wenn persönliche Schutzausrüstung vorgeschrieben ist.
+Pflicht nach **§ 3 Abs. 1 PSA-BV**, wenn persönliche Schutzausrüstung vorgeschrieben ist.
 
 ## Häufige Fehler bei der Unterweisungsdokumentation
 
 **❌ Gruppenunterschrift statt Einzelnachweis**
-Ein Kollektivnachweis ("10 Mitarbeiter wurden unterwiesen") ohne individuelle Unterschriften ist rechtlich wertlos.
+Ein Kollektivnachweis ("10 Mitarbeiter wurden unterwiesen") ohne Namen und individuelle Unterschriften belegt nicht, wer unterwiesen wurde — und wo Unterschriften vorgeschrieben sind, erfüllt er die Pflicht nicht.
 
 **❌ Inhalt zu allgemein beschrieben**
-"Arbeitssicherheit" als Themenangabe reicht nicht. Der Nachweis muss konkret belegen, was besprochen wurde.
+"Arbeitssicherheit" als Themenangabe reicht nicht. Der Nachweis sollte konkret belegen, was besprochen wurde.
 
 **❌ Nachweise im Nachhinein erstellt**
-Das Ausfüllen von Unterweisungsnachweisen nach dem Fact ist problematisch und kann im Schadensfall als Urkundenfälschung gewertet werden.
+Erst Wochen später ausgefüllte Nachweise sind fehleranfällig und im Schadensfall wenig glaubwürdig. Im Strahlenschutz ist die unverzügliche Aufzeichnung sogar vorgeschrieben (§ 63 Abs. 6 StrlSchV).
 
 **❌ Kein System für Wiederholungsunterweisungen**
 Ohne ein System, das Fälligkeiten automatisch trackt, werden Jahresunterweisungen regelmäßig vergessen.
@@ -85,9 +93,9 @@ Papierstapel im Ordner sind bei einer plötzlichen Betriebsprüfung nicht schnel
 
 ## Digitalunterweisung: Ist eine elektronische Unterschrift gültig?
 
-Ja — digitale Unterweisungen mit elektronischer Signatur sind rechtlich anerkannt, sofern die Identität des Unterzeichnenden eindeutig feststellbar ist. Moderne HSE-Plattformen erlauben es, Unterweisungen direkt am Tablet oder PC zu bestätigen. Die elektronische Unterschrift ersetzt die handschriftliche vollständig.
+Das hängt vom Thema ab. Für die allgemeine Unterweisung ist eine digitale Dokumentation möglich, denn die DGUV Vorschrift 1 schreibt weder Form noch Unterschrift vor. Moderne HSE-Plattformen erlauben es, Unterweisungen direkt am Tablet oder PC zu bestätigen. GefStoffV, BioStoffV und StrlSchV verlangen dagegen eine Unterschrift bzw. Unterzeichnung und regeln nicht, ob eine elektronische Bestätigung genügt. Klären Sie das für diese Themen mit der zuständigen Behörde oder lassen Sie dort weiter auf Papier unterschreiben.
 
-**Voraussetzung:** Das verwendete System muss die Zuordnung von Unterschrift und Person eindeutig und manipulationssicher dokumentieren — ein einfaches Häkchen ohne Login reicht nicht.
+**Wichtig:** Das System sollte eindeutig und manipulationssicher dokumentieren, wer was bestätigt hat — ein einfaches Häkchen ohne Login taugt kaum als Nachweis.
 
 ## Verwandte Themen
 
@@ -97,22 +105,24 @@ Wie digitale Unterweisungen rechtssicher umgesetzt werden: [Digitale Sicherheits
 
 Alle Arbeitgeberpflichten im Überblick: [Arbeitsschutz Pflichten Arbeitgeber – Checkliste 2026](/blog/arbeitsschutz-pflichten-arbeitgeber)
 
+Alle Pflichtunterweisungen einer Zahnarztpraxis mit Rechtsgrundlage, Frist und Nachweis: [Unterweisung in der Zahnarztpraxis: Pflichtthemen und Nachweis](https://www.safe-forward.de/ratgeber/unterweisung-zahnarztpraxis)
+
 ## Häufige Fragen (FAQ)
 
 **Reicht es, wenn der Mitarbeiter die Teilnahmeliste unterschreibt?**
-Nein. Die Unterschrift auf einer kollektiven Teilnahmeliste ohne individuelle Zuordnung zum Unterweisungsinhalt ist nicht ausreichend. Jeder Mitarbeiter muss individuell nachweislich bestätigt haben, *was* Inhalt der Unterweisung war — nicht nur *dass* er dabei war.
+Ja, wenn die Liste auch Datum und Inhalte der Unterweisung festhält — so ist auch das Muster der DGUV Regel 100-001 aufgebaut. Eine reine Anwesenheitsliste ohne Inhalte ist dagegen ein schwacher Beleg — und bei Gefahr- und Biostoffen zu wenig, weil dort Inhalt und Zeitpunkt festzuhalten sind.
 
 **Können Unterweisungen per E-Mail oder Video durchgeführt werden?**
-Ja, wenn der Inhalt vollständig vermittelt wird und die Kenntnisnahme individuell dokumentiert wird (z.B. per elektronischer Unterschrift nach dem Video). Ein reines Video ohne Bestätigung der Teilnahme ist kein rechtssicherer Nachweis.
+Nur eingeschränkt. Rückfragen müssen möglich sein, Unterlagen nur zum Selbststudium reichen nicht (DGUV Regel 100-001 Nr. 2.3.1). Bei Gefahr- und Biostoffen ist die Unterweisung mündlich vorgeschrieben (jeweils § 14 Abs. 2 GefStoffV/BioStoffV), ebenso im Strahlenschutz; E-Learning ist dort nur mit Zulassung der Behörde möglich (§ 63 Abs. 3 StrlSchV). Ein reines Video ohne Bestätigung der Teilnahme ist kein belastbarer Nachweis.
 
 **Müssen Unterweisungen immer in der Landessprache stattfinden?**
-Ja. Unterweisungen müssen für den Mitarbeiter verständlich sein — das schließt Fremdsprachigkeit ein. Wer einen Mitarbeiter unterweist, der kein Deutsch versteht, muss entweder in dessen Sprache unterweisen oder einen Dolmetscher hinzuziehen.
+Nein. Entscheidend ist, dass die Beschäftigten die Unterweisung verstehen (§ 4 Abs. 2 DGUV Vorschrift 1, § 14 Abs. 2 GefStoffV, § 14 Abs. 3 BioStoffV). Bei Mitarbeitern, die kein Deutsch verstehen, heißt das: in einer Sprache unterweisen, die sie verstehen, einen Dolmetscher hinzuziehen oder mit Skizzen, Fotos und Videos arbeiten (DGUV Regel 100-001 Nr. 2.3.2).
 
 **Was gilt als "rechtzeitige" Erstunterweisung?**
-Vor Aufnahme der Tätigkeit bedeutet: bevor der Mitarbeiter an dem Arbeitsplatz oder mit dem Arbeitsmittel arbeitet — nicht am ersten offiziellen Arbeitstag, sondern im Zweifel am Morgen davor oder beim Onboarding.
+Vor Aufnahme der Tätigkeit (§ 12 Abs. 1 ArbSchG) bedeutet: bevor der Mitarbeiter an dem Arbeitsplatz oder mit dem Arbeitsmittel arbeitet. Das kann am ersten Arbeitstag beim Onboarding sein — aber vor der ersten Tätigkeit.
 
-**Gilt die 2-Jahres-Aufbewahrungspflicht auch für Unterweisungen, die per App durchgeführt wurden?**
-Ja. Die Aufbewahrungspflicht gilt unabhängig vom Medium. Digitale Unterweisungsplattformen speichern Nachweise revisionssicher und prüfungsbereit — was bei Papierlisten deutlich schwieriger zu gewährleisten ist.
+**Gelten für Unterweisungen per App andere Aufbewahrungsregeln?**
+Nein. Eine allgemeine gesetzliche Frist gibt es nicht; wo eine gilt, etwa im Strahlenschutz, gilt sie unabhängig vom Medium — ebenso unsere Empfehlung von mindestens fünf Jahren. Digitale Unterweisungsplattformen speichern Nachweise revisionssicher und prüfungsbereit — was bei Papierlisten deutlich schwieriger zu gewährleisten ist.
 
 ## Unterweisungen digital verwalten — so funktioniert es mit Safe Forward
 
