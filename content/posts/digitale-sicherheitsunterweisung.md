@@ -19,12 +19,12 @@ Sie ersetzt die klassische Papierunterweisung mit Unterschriftenliste und kann v
 
 **Ja — mit den richtigen Voraussetzungen.**
 
-Das Arbeitsschutzgesetz (§12 ArbSchG) schreibt Unterweisungen vor, macht aber keine Vorgabe zum Medium. Die DGUV Vorschrift 1 konkretisiert dies: Unterweisungen müssen "mündlich oder in schriftlicher Form" erfolgen. Digitale Formate fallen unter die schriftliche Form, wenn sie folgende Anforderungen erfüllen:
+Das Arbeitsschutzgesetz (§12 ArbSchG) schreibt Unterweisungen vor, macht aber keine Vorgabe zum Medium. Auch die DGUV Vorschrift 1 schreibt keine bestimmte Form vor: Die Unterweisung muss mindestens jährlich erfolgen und dokumentiert werden (§ 4 Abs. 1). Digitale Formate sind deshalb möglich, wenn sie folgende Anforderungen erfüllen:
 
 1. **Tätigkeitsbezug**: Inhalte müssen zur konkreten Tätigkeit und dem Arbeitsplatz passen
 2. **Verständlichkeit**: Inhalte müssen für den Mitarbeiter nachvollziehbar sein
 3. **Nachweisbarkeit**: Teilnahme muss dokumentiert und die Identität des Teilnehmers eindeutig feststellbar sein
-4. **Interaktivität**: Reine "Klick-durch-Präsentationen" ohne Lernkontrolle sind kritisch — Verständnis sollte überprüft werden
+4. **Interaktivität**: Reine "Klick-durch-Präsentationen" ohne Lernkontrolle sind kritisch — Verständnis sollte überprüft werden, und Rückfragen an die unterweisende Person müssen möglich sein (DGUV Regel 100-001 Nr. 2.3.1)
 
 Wichtig: Die [Nachweispflicht bei Unterweisungen](/blog/unterweisung-nachweispflicht) gilt auch bei digitalen Formaten. Ein einfaches Häkchen ohne Login reicht nicht als Nachweis.
 
@@ -40,11 +40,12 @@ Wichtig: Die [Nachweispflicht bei Unterweisungen](/blog/unterweisung-nachweispfl
 
 **Nicht allein digital geeignet (Präsenz erforderlich oder sinnvoll):**
 - Unterweisungen an gefährlichen Maschinen (Maschinendemonstration nötig)
-- Gefahrstoffunterweisungen (oft praktische Elemente erforderlich)
+- Gefahrstoff- und Biostoffunterweisungen (mündliche Unterweisung vorgeschrieben, jeweils § 14 Abs. 2 GefStoffV/BioStoffV)
+- Strahlenschutzunterweisungen (mündlich; E-Learning nur mit Zulassung der Behörde, § 63 Abs. 3 StrlSchV)
 - Unterweisungen bei komplexen körperlichen Tätigkeiten
 - Erweiterter Brandschutz (Feuerlöscherübung)
 
-**Hybridmodell**: In der Praxis bewährt sich eine Kombination — theoretischer Teil digital, praktische Elemente in Präsenz.
+**Hybridmodell**: In der Praxis bewährt sich eine Kombination — theoretischer Teil digital, praktische Elemente in Präsenz. Welche Unterweisungen etwa in einer Zahnarztpraxis mündlich und mit Unterschrift laufen müssen, zeigt unser Ratgeber [Unterweisung in der Zahnarztpraxis](https://www.safe-forward.de/ratgeber/unterweisung-zahnarztpraxis).
 
 ## Wie funktioniert eine rechtssichere digitale Unterweisung?
 
@@ -69,7 +70,7 @@ Der Mitarbeiter bestätigt die Teilnahme mit seiner digitalen Unterschrift nach 
 
 ### Schritt 4: Automatische Archivierung
 
-Der Nachweis — mit Datum, Name, Inhalt der Unterweisung und Unterschrift — wird automatisch archiviert. [Aufbewahrungspflicht: mindestens 2 Jahre](/blog/unterweisung-nachweispflicht), empfohlen 5 Jahre.
+Der Nachweis — mit Datum, Name, Inhalt der Unterweisung und Unterschrift — wird automatisch archiviert. Eine allgemeine gesetzliche [Aufbewahrungsfrist](/blog/unterweisung-nachweispflicht) gibt es nicht, feste Fristen nur vereinzelt (fünf Jahre im Strahlenschutz, § 63 Abs. 6 StrlSchV). Unsere Empfehlung: mindestens 5 Jahre.
 
 ### Schritt 5: Fälligkeitsmanagement
 
@@ -95,7 +96,7 @@ Inhalte können für mehrsprachige Belegschaften in verschiedenen Sprachen hinte
 ## Häufige Fehler bei digitalen Unterweisungen
 
 **❌ Kein echter Login — jeder kann für jeden bestätigen**
-Ohne Authentifizierung kann ein Mitarbeiter die Unterweisung für Kollegen bestätigen. Das macht den Nachweis rechtlich wertlos.
+Ohne Authentifizierung kann ein Mitarbeiter die Unterweisung für Kollegen bestätigen. Das macht den Nachweis kaum belastbar.
 
 **❌ Inhalte zu allgemein**
 "Verhalten Sie sich sicherheitsbewusst" ist keine Unterweisung. Inhalte müssen tätigkeitsbezogen sein.
@@ -124,13 +125,13 @@ Safe Forward macht die digitale Unterweisung einfach und rechtssicher:
 ## Häufige Fragen (FAQ)
 
 **Sind reine Video-Unterweisungen ohne Abschlussfrage ausreichend?**
-Nein. Ein Video allein gilt nicht als ausreichender Nachweis. Es braucht eine Bestätigung der Teilnahme (Unterschrift/Häkchen nach Login) und idealerweise eine Verständniskontrolle.
+Nein. Ein Video allein gilt nicht als ausreichender Nachweis. Es braucht eine Bestätigung der Teilnahme (Unterschrift/Häkchen nach Login) und idealerweise eine Verständniskontrolle. Außerdem müssen Rückfragen möglich sein; Unterlagen nur zum Selbststudium reichen nicht (DGUV Regel 100-001 Nr. 2.3.1).
 
 **Kann ich eine digitale Unterweisung bei einer Betriebsprüfung vorlegen?**
-Ja. Digitale Nachweise sind vollständig anerkannt, wenn sie Datum, Name, Inhalt und eine authentifizierte Bestätigung enthalten und exportiert werden können.
+Ja. Für die allgemeine Unterweisung ist ein digitaler Nachweis möglich, denn die DGUV Vorschrift 1 schreibt weder Form noch Unterschrift vor (DGUV Regel 100-001 Nr. 2.3.1). Er sollte Datum, Name, Inhalt und eine authentifizierte Bestätigung enthalten und exportiert werden können. GefStoffV, BioStoffV und StrlSchV verlangen dagegen eine Unterschrift bzw. Unterzeichnung und regeln nicht, ob eine elektronische Bestätigung genügt. Klären Sie das für diese Themen mit der zuständigen Behörde oder lassen Sie dort weiter auf Papier unterschreiben.
 
 **Muss die Unterweisung in Arbeitszeit stattfinden?**
-Ja. Unterweisungen gelten als Arbeitszeit und müssen entsprechend vergütet werden (§12 Abs. 3 ArbSchG).
+Ja. Der Arbeitgeber muss während der Arbeitszeit unterweisen (§ 12 Abs. 1 ArbSchG), und die Kosten darf er nicht den Beschäftigten auferlegen (§ 3 Abs. 3 ArbSchG).
 
 **Wie lange darf eine digitale Unterweisung dauern?**
 Das Gesetz schreibt keine Mindest- oder Maximaldauer vor. Praxiswert: 15–30 Minuten für eine Jahresunterweisung, kürzer für anlassbezogene Unterweisungen.
@@ -139,11 +140,11 @@ Das Gesetz schreibt keine Mindest- oder Maximaldauer vor. Praxiswert: 15–30 Mi
 Ja. Leiharbeitnehmer müssen vor Aufnahme der Tätigkeit unterwiesen werden — digital ist hier besonders praktisch, da es keinen Einrichtungsaufwand erfordert.
 
 **Was ist der Unterschied zwischen Unterweisung und E-Learning?**
-E-Learning ist ein Oberbegriff. Eine Unterweisung im Sinne des ArbSchG ist E-Learning dann, wenn es tätigkeitsbezogen ist, dokumentiert wird und die Teilnahme nachgewiesen werden kann.
+E-Learning ist ein Oberbegriff. Eine Unterweisung im Sinne des ArbSchG ist E-Learning dann, wenn es tätigkeitsbezogen ist, Rückfragen ermöglicht, dokumentiert wird und die Teilnahme nachgewiesen werden kann.
 
 ## Fazit
 
-Digitale Sicherheitsunterweisungen sind rechtlich voll anerkannt, effizient und für KMU mit verteilten Teams besonders wertvoll. Entscheidend ist nicht das Medium, sondern die Qualität: tätigkeitsbezogene Inhalte, Verständniskontrolle und ein lückenloser, authentifizierter Nachweis. Mit dem richtigen System spart die digitale Unterweisung Zeit und schafft gleichzeitig mehr Rechtssicherheit als Papierlisten.
+Digitale Sicherheitsunterweisungen sind für viele Themen rechtlich zulässig, effizient und für KMU mit verteilten Teams besonders wertvoll. Entscheidend ist nicht das Medium, sondern die Qualität: tätigkeitsbezogene Inhalte, Verständniskontrolle und ein lückenloser, authentifizierter Nachweis. Mit dem richtigen System spart die digitale Unterweisung Zeit und schafft gleichzeitig mehr Rechtssicherheit als Papierlisten.
 
 ---
 

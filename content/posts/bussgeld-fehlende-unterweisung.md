@@ -23,19 +23,18 @@ In all diesen Fällen können Behörden und Berufsgenossenschaften bei einer Bet
 
 ## Welche Bußgelder drohen konkret?
 
-Das **Arbeitsschutzgesetz (ArbSchG)** sieht in §25 folgende Sanktionen vor:
+Das **Arbeitsschutzgesetz (ArbSchG)** sieht in §§ 25 und 26 folgende Sanktionen vor:
 
 | Verstoß | Sanktion |
 |---|---|
-| Keine oder unzureichende Unterweisung | Bußgeld bis **5.000 €** |
-| Wiederholter oder schwerwiegender Verstoß | Bußgeld bis **25.000 €** |
-| Vorsätzlicher Verstoß mit Gesundheitsschaden | **Straftat** (Freiheits- oder Geldstrafe) |
+| Keine oder unzureichende Unterweisung, soweit eine Arbeitsschutzverordnung dafür auf § 25 verweist (z. B. BetrSichV, BioStoffV) | Bußgeld bis **5.000 €** |
+| Verstoß gegen eine vollziehbare Anordnung der Behörde (§ 22 Abs. 3), etwa die Unterweisung nachzuholen | Bußgeld bis **30.000 €** |
+| Vorsätzlicher Verstoß, der Leben oder Gesundheit eines Beschäftigten gefährdet, oder beharrlich wiederholter Verstoß gegen eine Anordnung | **Straftat** (Freiheitsstrafe bis zu einem Jahr oder Geldstrafe, § 26) |
 
 Hinzu kommen mögliche Bußgelder nach spezialgesetzlichen Regelungen:
 
 - **GefStoffV §22**: Verstöße gegen Unterweisungspflichten bei Gefahrstoffen — bis 50.000 €
-- **BetrSichV §22**: Fehlende Unterweisung beim Umgang mit Arbeitsmitteln — bis 50.000 €
-- **PSA-BV §7**: Fehlende PSA-Unterweisung — bis 5.000 €
+- **BetrSichV §22**: Fehlende Unterweisung beim Umgang mit Arbeitsmitteln — bis 5.000 € (§ 22 Abs. 1 BetrSichV verweist auf § 25 Abs. 1 Nr. 1 ArbSchG)
 
 **Wichtig:** Die Bußgelder werden pro Verstoß verhängt — bei 20 uninformierten Mitarbeitern können sich die Beträge entsprechend multiplizieren.
 
@@ -45,7 +44,6 @@ Zuständig sind:
 
 - **Gewerbeaufsichtsämter** der Bundesländer (staatliche Arbeitsschutzbehörden)
 - **Berufsgenossenschaften** im Rahmen ihrer Überwachungspflicht
-- **Zollbehörden** in bestimmten Branchen (z.B. Bau, bei Schwarzarbeitsverdacht)
 
 Kontrollen finden nicht nur anlassbezogen (nach Unfällen) statt — Betriebsprüfungen können auch unangekündigt erfolgen.
 
@@ -57,14 +55,14 @@ Bei einem Arbeitsunfall, dem eine fehlende Unterweisung vorausging, können folg
 Die BG übernimmt zwar zunächst die Kosten für Behandlung und Rehabilitation des Verletzten. Hat der Arbeitgeber jedoch grob fahrlässig oder vorsätzlich gehandelt — zum Beispiel durch das bewusste Weglassen von Unterweisungen — kann die BG **Regress** beim Arbeitgeber nehmen. Die Rückforderungsbeträge können im sechstelligen Bereich liegen.
 
 **Schadenersatz des Arbeitnehmers**
-In Fällen vorsätzlicher Pflichtverletzung können Arbeitnehmer zusätzlich Schadenersatz und Schmerzensgeld direkt vom Arbeitgeber fordern — der Haftungsausschluss der gesetzlichen Unfallversicherung greift dann nicht.
+Hat der Arbeitgeber den Arbeitsunfall vorsätzlich herbeigeführt, können Arbeitnehmer zusätzlich Schadenersatz und Schmerzensgeld direkt vom Arbeitgeber fordern — der Haftungsausschluss der gesetzlichen Unfallversicherung greift dann nicht (§ 104 Abs. 1 SGB VII). Eine vorsätzliche Pflichtverletzung allein genügt dafür nach dem Wortlaut nicht.
 
 **Erhöhte Beiträge zur Berufsgenossenschaft**
-Unternehmen mit schlechter Unfallbilanz zahlen höhere BG-Beiträge. Fehlende Unterweisungen als Unfallursache wirken sich direkt auf den Beitragssatz aus.
+Unternehmen mit schlechter Unfallbilanz zahlen höhere BG-Beiträge: Gewerbliche Berufsgenossenschaften erheben je nach Zahl, Schwere oder Kosten der Versicherungsfälle Zuschläge (§ 162 Abs. 1 SGB VII). Unfälle infolge fehlender Unterweisung zählen dabei mit.
 
 ## Können Führungskräfte persönlich haften?
 
-Ja. Wenn Arbeitsschutzpflichten auf Führungskräfte oder Sicherheitsbeauftragte delegiert wurden, können diese **persönlich** haftbar gemacht werden — auch strafrechtlich, wenn ein Unfall auf die fehlende Unterweisung zurückzuführen ist.
+Ja. Wenn Arbeitsschutzpflichten auf Führungskräfte delegiert wurden, können diese **persönlich** haftbar gemacht werden — auch strafrechtlich, wenn ein Unfall auf die fehlende Unterweisung zurückzuführen ist. Sicherheitsbeauftragte übernehmen dagegen keine Unternehmerpflichten (DGUV Regel 100-001 Nr. 4.2.2).
 
 Voraussetzung ist eine wirksame schriftliche Delegation mit konkreter Aufgabenbeschreibung und ausreichenden Befugnissen. Ohne wirksame Delegation bleibt der Arbeitgeber in der Gesamtverantwortung.
 
@@ -85,7 +83,7 @@ In der Praxis reagieren die meisten Prüfer zunächst mit Beratung und Fristsetz
 Die drei wichtigsten Schutzmaßnahmen:
 
 **1. Lückenlosen Nachweis führen**
-Jede Unterweisung wird dokumentiert — mit Datum, Inhalt, Unterweiser und individueller Unterschrift jedes Teilnehmers.
+Jede Unterweisung wird dokumentiert — mit Datum, Inhalt, Unterweiser und individueller Unterschrift jedes Teilnehmers. Ein Beispiel ist unsere [Vorlage Unterweisungsnachweis für Zahnarztpraxen (PDF)](https://www.safe-forward.de/vorlagen/unterweisungsnachweis-zahnarztpraxis.pdf).
 
 **2. Fälligkeiten aktiv überwachen**
 Ein System, das Wiederholungsunterweisungen automatisch plant und erinnert, verhindert vergessene Jahresunterweisungen.
@@ -107,8 +105,8 @@ Die vollständige Arbeitsschutz-Checkliste für Arbeitgeber: [Arbeitsschutz Pfli
 
 ## Häufige Fragen (FAQ)
 
-**Müssen Bußgelder sofort bezahlt werden oder gibt es eine Widerspruchsmöglichkeit?**
-Bußgeldbescheide können innerhalb von zwei Wochen nach Zustellung schriftlich widersprochen werden. Bei einem Widerspruch entscheidet das Amtsgericht. In der Praxis lohnt Widerspruch nur, wenn ein echter Sachverhaltsfehler vorliegt — nicht wegen der Bußgeldhöhe allein.
+**Müssen Bußgelder sofort bezahlt werden oder gibt es eine Einspruchsmöglichkeit?**
+Gegen Bußgeldbescheide kann innerhalb von zwei Wochen nach Zustellung schriftlich oder zur Niederschrift bei der Behörde, die den Bescheid erlassen hat, Einspruch eingelegt werden (§ 67 Abs. 1 OWiG). Bei einem Einspruch entscheidet das Amtsgericht (§ 68 Abs. 1 OWiG). In der Praxis lohnt ein Einspruch nur, wenn ein echter Sachverhaltsfehler vorliegt — nicht wegen der Bußgeldhöhe allein.
 
 **Schützt mich eine fehlgeschlagene Unterweisung (Mitarbeiter hat nicht zugehört) vor Haftung?**
 Nein, nicht vollständig. Der Arbeitgeber haftet für die ordnungsgemäße Durchführung der Unterweisung — nicht nur für die Tatsache, dass sie stattgefunden hat. Wenn ein Mitarbeiter demonstrativ desinteressiert war und der Unterweiser das ignoriert hat, ist das ein Organisationsproblem. Die Dokumentation, dass unterwiesen wurde, mindert aber die Haftung erheblich.
@@ -117,7 +115,7 @@ Nein, nicht vollständig. Der Arbeitgeber haftet für die ordnungsgemäße Durch
 Nein. Betriebsanweisungen sind schriftliche Ergänzungen zur Unterweisung, kein Ersatz. Wer nur Betriebsanweisungen aushängt, ohne mündliche oder digitale Unterweisung durchzuführen, hat seine Pflicht nach §12 ArbSchG nicht erfüllt.
 
 **Wie weit zurück kann eine Betriebsprüfung Unterweisungsnachweise fordern?**
-Mindestens 2 Jahre (gesetzliche Aufbewahrungspflicht). In der Praxis verlangen Prüfer häufig Nachweise für alle im Betrieb tätigen Mitarbeiter für die gesamte Dauer ihrer Beschäftigung, soweit noch vorhanden.
+Eine allgemeine gesetzliche Aufbewahrungsfrist gibt es nicht; feste Fristen nur vereinzelt, etwa fünf Jahre für Strahlenschutzunterweisungen (§ 63 Abs. 6 StrlSchV). Die Behörde kann die Unterlagen verlangen, die sie für ihre Überwachung braucht (§ 22 Abs. 1 ArbSchG). In der Praxis verlangen Prüfer häufig Nachweise für alle im Betrieb tätigen Mitarbeiter für die gesamte Dauer ihrer Beschäftigung, soweit noch vorhanden. Unsere Empfehlung: Unterweisungsnachweise mindestens fünf Jahre aufbewahren.
 
 **Was passiert, wenn ein Unfall geschieht und die Unterweisung fehlt, aber der Mitarbeiter selbst schuld war?**
 Bei grob fahrlässigem Mitverschulden des Mitarbeiters kann die Haftung des Arbeitgebers gemindert werden. Fehlt aber eine Unterweisung, greift das Argument "Mitarbeiter hätte es wissen müssen" nicht — denn der Arbeitgeber war verpflichtet sicherzustellen, dass der Mitarbeiter es weiß.

@@ -25,3 +25,10 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Tabellen scrollen auf schmalen Bildschirmen in ihrem eigenen Bereich, statt die Seite zu verbreitern */
+.prose table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+}

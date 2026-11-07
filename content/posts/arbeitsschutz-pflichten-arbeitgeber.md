@@ -32,15 +32,15 @@ Das Arbeitsschutzrecht in Deutschland ist mehrschichtig:
 - [ ] Schutzmaßnahmen nach TOP-Prinzip festgelegt
 - [ ] Verantwortliche und Umsetzungsfristen benannt
 - [ ] Wirksamkeitskontrolle durchgeführt
-- [ ] Regelmäßig aktualisiert (bei Änderungen der Arbeitsbedingungen, mind. alle 3–5 Jahre)
+- [ ] Regelmäßig überprüft und bei Änderungen der Arbeitsbedingungen aktualisiert (§ 3 Abs. 2 DGUV Vorschrift 1; bei Biostoffen mindestens jedes zweite Jahr, § 4 Abs. 2 BioStoffV)
 
 ### ✅ 2. Unterweisungen
 
 - [ ] Erstunterweisung vor Aufnahme der Tätigkeit (§12 ArbSchG)
 - [ ] Jährliche Wiederholungsunterweisung für alle Mitarbeiter
 - [ ] Tätigkeitsbezogene Inhalte (nicht nur allgemeine Sicherheitshinweise)
-- [ ] Schriftlicher Nachweis mit Unterschrift jedes Teilnehmers
-- [ ] Aufbewahrung der Nachweise mind. 2 Jahre (empfohlen: 5 Jahre)
+- [ ] Nachweis dokumentiert (§ 4 Abs. 1 DGUV Vorschrift 1), möglichst mit Unterschrift jedes Teilnehmers (Pflicht u. a. bei Gefahr- und Biostoffen)
+- [ ] Nachweise aufbewahrt: keine allgemeine gesetzliche Frist, fünf Jahre bei Strahlenschutzunterweisungen (§ 63 Abs. 6 StrlSchV); Empfehlung: mindestens 5 Jahre
 - [ ] Unterweisungen bei neuen Arbeitsmitteln, Verfahren oder nach Unfällen
 
 ### ✅ 3. Fachkraft für Arbeitssicherheit (Sifa)
@@ -54,7 +54,7 @@ Das Arbeitsschutzrecht in Deutschland ist mehrschichtig:
 
 ### ✅ 4. Betriebsarzt
 
-- [ ] Bestellung eines Betriebsarztes (§5 ASiG)
+- [ ] Bestellung eines Betriebsarztes (§ 2 ASiG)
 - [ ] Eignungsuntersuchungen organisiert (sofern vorgeschrieben)
 - [ ] Vorsorgeuntersuchungen angeboten (ArbMedVV)
 
@@ -67,15 +67,15 @@ Das Arbeitsschutzrecht in Deutschland ist mehrschichtig:
 - [ ] Schriftliche Bestellungsurkunde vorhanden
 - [ ] Ausreichende Freistellung und Mittel zur Aufgabenerfüllung
 
-*Pflicht ab 20 Beschäftigten — in Branchen mit erhöhter Unfallgefahr bereits früher.*
+*Pflicht ab regelmäßig 50 Beschäftigten, bei mehr als 20 Beschäftigten nur bei besonderer Gefährdung laut Gefährdungsbeurteilung; bei besonderer Gefährdung kann die BG die Bestellung auch anordnen (§ 22 Abs. 1 SGB VII). § 20 DGUV Vorschrift 1 (Ausgabe 2013) nennt noch „mehr als 20“ Beschäftigte — im Zweifel bei der BG nachfragen.*
 
 ### ✅ 6. Erste Hilfe
 
-- [ ] Mindestanzahl Ersthelfer sichergestellt (10 % der Beschäftigten im Büro, 15 % im gewerblichen Bereich)
+- [ ] Mindestanzahl Ersthelfer sichergestellt (bei 2 bis 20 anwesenden Versicherten einer, darüber 5 % in Verwaltungs- und Handelsbetrieben, 10 % in sonstigen Betrieben – § 26 Abs. 1 DGUV Vorschrift 1)
 - [ ] Ersthelfer-Ausbildung aktuell (Auffrischung alle 2 Jahre)
 - [ ] Verbandkästen in ausreichender Anzahl und zugänglich
 - [ ] Meldeweg und Notfallnummern bekannt und ausgehängt
-- [ ] Unfallmeldebuch geführt
+- [ ] Erste-Hilfe-Leistungen dokumentiert (Verbandbuch), Dokumentation fünf Jahre verfügbar (§ 24 Abs. 6 DGUV Vorschrift 1)
 
 ### ✅ 7. Brandschutz
 
@@ -95,7 +95,7 @@ Das Arbeitsschutzrecht in Deutschland ist mehrschichtig:
 
 ### ✅ 9. Gefahrstoffe
 
-- [ ] Gefahrstoffverzeichnis aktuell geführt (GefStoffV §6)
+- [ ] [Gefahrstoffverzeichnis](https://www.safe-forward.de/ratgeber/gefahrstoffverzeichnis) aktuell geführt (GefStoffV §6)
 - [ ] Sicherheitsdatenblätter vorhanden und zugänglich
 - [ ] Betriebsanweisungen für alle Gefahrstoffe erstellt
 - [ ] Gefahrstoffunterweisung mind. jährlich durchgeführt und dokumentiert
@@ -112,14 +112,14 @@ Das Arbeitsschutzrecht in Deutschland ist mehrschichtig:
 
 - [ ] Psychische Belastungen als Teil der Gefährdungsbeurteilung erfasst (§5 Abs. 3 Nr. 6 ArbSchG)
 - [ ] Maßnahmen zur Reduktion psychischer Belastungen festgelegt (z.B. Arbeitszeitgestaltung, Pausenregelungen)
-- [ ] Betriebliches Eingliederungsmanagement (BEM) angeboten (§84 SGB IX)
+- [ ] Betriebliches Eingliederungsmanagement (BEM) angeboten (§ 167 Abs. 2 SGB IX)
 
 ### ✅ 12. Dokumentation und Aufbewahrung
 
-- [ ] Alle Unterweisungsnachweise mind. 2 Jahre aufbewahrt
+- [ ] Unterweisungsnachweise aufbewahrt (keine allgemeine gesetzliche Frist; Strahlenschutz fünf Jahre, § 63 Abs. 6 StrlSchV; Empfehlung: mindestens 5 Jahre)
 - [ ] Gefährdungsbeurteilung schriftlich dokumentiert und zugänglich
 - [ ] Prüfprotokolle für Arbeitsmittel archiviert
-- [ ] Arbeitsunfälle gemeldet und dokumentiert (Meldepflicht ab 3 Ausfalltagen)
+- [ ] Arbeitsunfälle gemeldet und dokumentiert (Meldepflicht bei mehr als drei Tagen Arbeitsunfähigkeit, § 193 Abs. 1 SGB VII)
 - [ ] Betriebsärztliche Unterlagen nach Vorschrift archiviert
 
 ---
@@ -152,13 +152,13 @@ Ja. Wer Mitarbeitern regelmäßiges Homeoffice ermöglicht, muss die Arbeitsbedi
 Ab fünf ständig beschäftigten wahlberechtigten Arbeitnehmern kann ein Betriebsrat gewählt werden (BetrVG §1). Es gibt keine Verpflichtung für den Arbeitgeber, einen Betriebsrat einzusetzen — aber eine Verpflichtung, ihn zu tolerieren und zu informieren.
 
 **Muss ich als Arbeitgeber alle Unterweisungen selbst durchführen?**
-Nein. Unterweisungen können an qualifizierte Führungskräfte oder Sicherheitsbeauftragte delegiert werden — schriftlich und mit klarer Aufgabenbeschreibung. Die Gesamtverantwortung verbleibt beim Arbeitgeber.
+Nein. Unterweisungen können an zuverlässige und fachkundige Führungskräfte delegiert werden — schriftlich und mit klarer Aufgabenbeschreibung (§ 13 Abs. 2 ArbSchG). Sicherheitsbeauftragte, Fachkräfte für Arbeitssicherheit und Betriebsärzte können beraten und mitwirken, aber nicht eigenverantwortlich unterweisen, weil ihnen die Weisungsbefugnis fehlt (DGUV Regel 100-001 Nr. 2.3.1). Die Gesamtverantwortung verbleibt beim Arbeitgeber.
 
 **Was ist das Unternehmermodell der Berufsgenossenschaft?**
 Kleinstbetrieben mit geringer Gefährdung ermöglicht das Unternehmermodell, die Pflicht zur Sifa-Bestellung durch eigene Qualifizierung zu erfüllen. Der Unternehmer absolviert entsprechende BG-Seminare und übernimmt damit selbst die sicherheitstechnische Betreuung seines Betriebs.
 
 **Welche Folgen hat es, wenn ein Mitarbeiter bei einer fehlenden PSA-Unterweisung verletzt wird?**
-Der Arbeitgeber haftet primär: keine PSA-Unterweisung = Verletzung der Fürsorgepflicht. Die Berufsgenossenschaft kann Regress nehmen; bei grober Fahrlässigkeit drohen Bußgelder bis 50.000 € und persönliche Haftung.
+Keine PSA-Unterweisung = Verstoß gegen § 3 PSA-BV. Die Leistungen für den Verletzten erbringt die Berufsgenossenschaft; für den Personenschaden haftet der Arbeitgeber dem Verletzten selbst nur, wenn er den Unfall vorsätzlich herbeigeführt hat (§ 104 Abs. 1 SGB VII). Bei grober Fahrlässigkeit kann die BG Regress nehmen (§ 110 Abs. 1 SGB VII). Ein Bußgeld sieht die PSA-BV nicht vor; wer eine vollziehbare Anordnung der Behörde missachtet, riskiert bis zu 30.000 € (§ 25 ArbSchG).
 
 **Wie oft müssen Ersthelfer neu ausgebildet werden?**
 Ersthelferausbildungen müssen alle zwei Jahre aufgefrischt werden. Der Ersthelfer-Kurs hat keine unbegrenzte Gültigkeit. Der Arbeitgeber ist verantwortlich dafür, dass die Auffrischungen rechtzeitig stattfinden.

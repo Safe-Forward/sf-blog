@@ -30,7 +30,7 @@ Moderne [Unterweisungssoftware](/blog/unterweisung-nachweispflicht) schickt auto
 
 ### 2. Keine digitalen Unterschriften
 
-Unterweisungsnachweise brauchen die Unterschrift jedes Teilnehmers. In Excel fehlt dieser Mechanismus vollständig. Ergebnis: Ausdrucken, unterschreiben lassen, einscannen, ablegen — oder gar nicht unterschreiben lassen, was den Nachweis rechtlich wertlos macht.
+Bei Gefahrstoffen, Biostoffen und im Strahlenschutz brauchen Unterweisungsnachweise die Unterschrift jedes Teilnehmers, und auch sonst erleichtert sie den Nachweis (DGUV Regel 100-001 Nr. 2.3.1). In Excel fehlt dieser Mechanismus vollständig. Ergebnis: Ausdrucken, unterschreiben lassen, einscannen, ablegen — oder gar nicht unterschreiben lassen, was den Nachweis deutlich schwächt.
 
 ### 3. Versionschaos bei Gefährdungsbeurteilungen
 
@@ -58,7 +58,7 @@ Excel-Tabellen stehen für sich. Wenn ein Arbeitsunfall gemeldet wird, muss jema
 Der Prüfer der Berufsgenossenschaft möchte alle Unterweisungsnachweise der letzten zwei Jahre sehen. Die Zeugen: 12 Excel-Dateien auf drei verschiedenen Rechnern, ein Ordner mit Scans (teils unleserlich), und die Aussage "Das hat der Kollege gemacht, der ist aber nicht mehr bei uns."
 
 **Szenario 2: Arbeitsunfall**
-Ein Mitarbeiter verletzt sich an einer Maschine. Die Staatsanwaltschaft fragt, ob er auf die Gefahr hingewiesen wurde. Die Unterweisungsliste zeigt seinen Namen — aber ohne Unterschrift. Rechtlich gilt: keine Unterweisung stattgefunden.
+Ein Mitarbeiter verletzt sich an einer Maschine. Die Staatsanwaltschaft fragt, ob er auf die Gefahr hingewiesen wurde. Die Unterweisungsliste zeigt seinen Namen — aber ohne Unterschrift. Dass er tatsächlich unterwiesen wurde, ist so schwer zu beweisen.
 
 **Szenario 3: Mitarbeiterwechsel**
 Der Sicherheitsbeauftragte kündigt. Mit ihm: das Wissen, wo welche Dateien liegen, was die Abkürzungen bedeuten, welche Tabelle die aktuelle ist. Kein Übergabedokument existiert.
@@ -113,7 +113,7 @@ Safe Forward ist speziell für KMU entwickelt, die vom Excel-Chaos wegkommen wol
 Nein, Excel ist nicht verboten. Das Gesetz schreibt eine schriftliche Dokumentation vor, nicht ein bestimmtes Tool. Excel ist aber riskant, weil es keine revisionssicheren Nachweise, keine automatischen Erinnerungen und keine Versionierung bietet.
 
 **Was kostet HSE-Software für ein KMU?**
-Safe Forward beginnt bei 149 €/Monat für unbegrenzte Mitarbeiter. Im Vergleich zu einem einzigen Bußgeld (bis 25.000 €) oder einem BG-Regress amortisiert sich das innerhalb von Wochen.
+Safe Forward beginnt bei 149 €/Monat für unbegrenzte Mitarbeiter. Im Vergleich zu einem einzigen Bußgeld (nach ArbSchG bis 30.000 €) oder einem BG-Regress amortisiert sich das innerhalb von Wochen.
 
 **Kann ich meine Excel-Daten importieren?**
 Viele HSE-Systeme bieten Import-Funktionen für bestehende Daten. Die meisten Kunden starten aber mit einem sauberen Neuanfang, da alte Excel-Daten oft unvollständig oder inkonsistent sind.
