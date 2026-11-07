@@ -44,14 +44,14 @@ Die DGUV Vorschrift 1 konkretisiert die Unterweisungspflicht:
 
 - Unterweisungen müssen **mindestens einmal jährlich** stattfinden
 - Sie müssen **tätigkeitsbezogen** sein
-- Sie müssen **dokumentiert** werden — mit Datum, Inhalt und Unterschrift der Teilnehmer
-- Nachweise müssen **mindestens 2 Jahre** aufbewahrt werden
+- Sie müssen **dokumentiert** werden — eine bestimmte Form oder Unterschriften schreibt die Vorschrift nicht vor (DGUV Regel 100-001 Nr. 2.3.1); Datum, Inhalt und Unterschrift der Teilnehmer machen den Nachweis aber belastbar
+- Eine Aufbewahrungsfrist nennt die Vorschrift nicht; feste Fristen gibt es nur vereinzelt, etwa fünf Jahre für Strahlenschutzunterweisungen (§ 63 Abs. 6 StrlSchV). Unsere Empfehlung: mindestens 5 Jahre
 
-Wer gegen die [Unterweisungspflicht und Nachweispflicht](/blog/unterweisung-nachweispflicht) verstößt, riskiert Bußgelder durch die Berufsgenossenschaft.
+Ein Verstoß gegen § 4 ist selbst nicht bußgeldbewehrt — § 32 der Vorschrift nennt ihn nicht. Wer aber eine vollziehbare Anordnung der Berufsgenossenschaft zur [Unterweisungspflicht und Nachweispflicht](/blog/unterweisung-nachweispflicht) missachtet, riskiert ein Bußgeld bis 10.000 € (§ 209 Abs. 1 Nr. 2, Abs. 3 SGB VII).
 
 ### § 20 – Sicherheitsbeauftragte
 
-Ab **20 Beschäftigten** müssen Sicherheitsbeauftragte bestellt werden. In Branchen mit erhöhter Unfallgefahr (Bau, Produktion, Metallverarbeitung) kann die Pflicht früher einsetzen.
+§ 20 Abs. 1 der Vorschrift (Ausgabe 2013) verlangt Sicherheitsbeauftragte bei regelmäßig **mehr als 20 Beschäftigten**. Das SGB VII setzt die Schwelle heute anders: Nach § 22 Abs. 1 SGB VII sind sie ab regelmäßig 50 Beschäftigten zu bestellen, bei mehr als 20 nur bei besonderer Gefährdung laut Gefährdungsbeurteilung; bei besonderer Gefährdung kann die BG die Bestellung anordnen. Klären Sie im Zweifel mit Ihrer BG, welche Schwelle sie anwendet.
 
 **Aufgaben der Sicherheitsbeauftragten:**
 - Unterstützung des Arbeitgebers bei Unfallverhütung
@@ -61,23 +61,23 @@ Ab **20 Beschäftigten** müssen Sicherheitsbeauftragte bestellt werden. In Bran
 
 **Wichtig:** Sicherheitsbeauftragte sind **keine Ersatz** für Fachkräfte für Arbeitssicherheit (Sifa). Sie sind zusätzlich zu bestellen.
 
-**Verhältnis Beschäftigte zu Sicherheitsbeauftragten** (Richtwert):
+**Anzahl der Sicherheitsbeauftragten:** Eine feste Zahl nennt die DGUV Vorschrift 1 nicht. Der Unternehmer legt sie nach den Kriterien des § 20 Abs. 1 fest (Gefahren, räumliche, zeitliche und fachliche Nähe zu den Beschäftigten, Zahl der Beschäftigten). Das SGB VII regelt:
 
-| Betriebsgröße | Anzahl Sicherheitsbeauftragte |
+| Betriebsgröße | Sicherheitsbeauftragte nach § 22 Abs. 1 SGB VII |
 |---|---|
-| 20–100 MA | mindestens 1 |
-| 101–250 MA | mindestens 2 |
-| ab 251 MA | je weitere 250 MA: + 1 |
+| 21–49 MA | einer, wenn laut Gefährdungsbeurteilung eine besondere Gefährdung besteht |
+| 50–249 MA | ohne besondere Gefährdung genügt einer, sonst nach Gefahren und Zahl der Beschäftigten |
+| ab 250 MA | nach Gefahren und Zahl der Beschäftigten |
 
-### § 22 – Erste Hilfe
+### §§ 24–26 – Erste Hilfe
 
 Die DGUV Vorschrift 1 schreibt vor:
-- Mindestanzahl von Ersthelfern: **10 %** der Beschäftigten im Bürobereich, **15 %** in anderen Bereichen
+- Mindestanzahl von Ersthelfern: bei 2 bis 20 anwesenden Versicherten **einer**, darüber **5 %** in Verwaltungs- und Handelsbetrieben, **10 %** in sonstigen Betrieben (§ 26 Abs. 1)
 - Ersthelfer-Ausbildung und regelmäßige Auffrischung (alle 2 Jahre)
 - Ausreichende Verbandkästen in zugänglichen Positionen
 - Aushang mit Notfallnummern und Ersthelfer-Namen
 
-### §§ 7–15 – Gefährdungsbeurteilung und Schutzmaßnahmen
+### §§ 2–3 – Gefährdungsbeurteilung und Schutzmaßnahmen
 
 Die DGUV Vorschrift 1 stellt klar, dass die Gefährdungsbeurteilung nach dem TOP-Prinzip zu gestalten ist: Technische Maßnahmen vor organisatorischen Maßnahmen vor personenbezogenen Maßnahmen (PSA).
 
@@ -85,7 +85,7 @@ Sie legt fest, dass die [Gefährdungsbeurteilung](/blog/gefaehrdungsbeurteilung-
 
 ## Was bei Verstößen gegen die DGUV Vorschrift 1 droht
 
-Verstöße gegen die DGUV Vorschrift 1 können von der Berufsgenossenschaft mit **Bußgeldern bis zu 10.000 €** geahndet werden. Bei wiederholten oder schwerwiegenden Verstößen sind höhere Sanktionen möglich.
+Verstöße gegen die in § 32 genannten Pflichten (z. B. Bestellung von Sicherheitsbeauftragten, Zahl der Ersthelfer) und gegen vollziehbare Anordnungen der Berufsgenossenschaft können mit **Bußgeldern bis zu 10.000 €** geahndet werden (§ 209 SGB VII).
 
 Darüber hinaus verliert der Arbeitgeber im Schadensfall möglicherweise seinen Haftungsschutz durch die gesetzliche Unfallversicherung — die BG kann Regress nehmen, wenn grobe Pflichtverletzungen vorlagen.
 
@@ -98,7 +98,7 @@ Lesen Sie auch: [Welche Bußgelder drohen bei Verstößen im Arbeitsschutz?](/bl
 | Rechtsgrundlage | Staatliches Recht | Unfallverhütungsvorschrift (UVV) |
 | Gültig für | Alle Arbeitgeber | BG-Mitgliedsbetriebe |
 | Durchsetzung | Gewerbeaufsicht | Berufsgenossenschaft |
-| Sanktionen | Bußgeld bis 25.000 € | Bußgeld bis 10.000 €, Regress |
+| Sanktionen | Bußgeld bis 5.000 € bzw. 30.000 € (§ 25) | Bußgeld bis 10.000 € (§ 209 SGB VII), Regress |
 
 Beide Regelwerke gelten **parallel** und ergänzen sich. ArbSchG und DGUV Vorschrift 1 schreiben in vielen Punkten ähnliche Pflichten vor — aber über unterschiedliche Behörden mit unterschiedlichen Sanktionsmechanismen.
 
@@ -106,7 +106,7 @@ Beide Regelwerke gelten **parallel** und ergänzen sich. ArbSchG und DGUV Vorsch
 
 - [ ] Gefährdungsbeurteilung für alle Arbeitsbereiche vorhanden und dokumentiert
 - [ ] Jährliche Unterweisungen durchgeführt und dokumentiert
-- [ ] Sicherheitsbeauftragte bestellt (ab 20 MA)
+- [ ] Sicherheitsbeauftragte bestellt (§ 22 SGB VII: ab 50 MA, bei 21–49 MA bei besonderer Gefährdung)
 - [ ] Bestellung schriftlich dokumentiert
 - [ ] Fachkraft für Arbeitssicherheit eingebunden (ASiG)
 - [ ] Betriebsarzt eingebunden
@@ -130,7 +130,7 @@ Die Anforderungen der DGUV Vorschrift 1 — Gefährdungsbeurteilung, Unterweisun
 ## Häufige Fragen (FAQ)
 
 **Gilt die DGUV Vorschrift 1 auch für Kleinstbetriebe mit 1–5 Mitarbeitern?**
-Ja. Die Vorschrift gilt für alle BG-Mitglieder ohne Ausnahme nach Betriebsgröße. Lediglich bei der Anzahl der Sicherheitsbeauftragten gibt es Schwellenwerte.
+Ja. Die Vorschrift gilt für alle BG-Mitglieder ohne Ausnahme nach Betriebsgröße. Schwellenwerte gibt es nur bei einzelnen Pflichten, etwa bei Sicherheitsbeauftragten, Ersthelfern (§ 26) oder Erste-Hilfe-Räumen (§ 25 Abs. 4).
 
 **Wer prüft die Einhaltung der DGUV Vorschrift 1?**
 Die Berufsgenossenschaft führt Betriebsbesichtigungen durch und kann Auflagen erteilen oder Bußgelder verhängen. Zusätzlich prüft das staatliche Gewerbeaufsichtsamt nach dem ArbSchG.
