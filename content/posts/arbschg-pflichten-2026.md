@@ -17,7 +17,7 @@ Die zentralen Regelungsbereiche:
 - Pflicht zur **Gefährdungsbeurteilung** (§5)
 - Pflicht zur **Dokumentation** (§6)
 - Pflicht zur **Unterweisung** (§12)
-- **Organisations- und Übertragungspflichten** (§§13, 14)
+- **Organisations- und Übertragungspflichten** (§13)
 - **Mitarbeiterpflichten** (§15)
 - **Sanktionen** bei Verstößen (§25)
 
@@ -52,14 +52,14 @@ Zum vollständigen Prozess: [Gefährdungsbeurteilung erstellen: Schritt-für-Sch
 
 ### §6 – Dokumentation
 
-Betriebe mit **mehr als 10 Beschäftigten** müssen die Gefährdungsbeurteilung und die Maßnahmen schriftlich dokumentieren. In der Praxis empfiehlt sich die Dokumentation für alle Betriebe — auch unterhalb dieser Schwelle.
+**Alle Betriebe** müssen die Gefährdungsbeurteilung und die Maßnahmen dokumentieren — unabhängig von der Zahl der Beschäftigten. Nach Art der Tätigkeiten und Zahl der Beschäftigten richtet sich nur, welche Unterlagen erforderlich sind (§ 6 Abs. 1 ArbSchG).
 
 Die Dokumentation muss enthalten:
 - Ergebnis der Gefährdungsbeurteilung
 - Festgelegte Maßnahmen
 - Ergebnis der Überprüfung (Wirksamkeitskontrolle)
 
-**Aufbewahrung:** Das Gesetz schreibt keine spezifische Frist vor. Empfohlen: mindestens 5 Jahre, bei gefährdeten Tätigkeiten bis zu 30 Jahre.
+**Aufbewahrung:** Das Gesetz schreibt keine spezifische Frist vor. Unsere Empfehlung: mindestens 5 Jahre.
 
 ### §10 – Erste Hilfe und Notfallmaßnahmen
 
@@ -81,7 +81,7 @@ Arbeitnehmer müssen ausreichend und angemessen über Sicherheit und Gesundheits
 - **Tätigkeitsbezogen und arbeitsplatzbezogen**
 - Die Unterweisung muss **während der Arbeitszeit** stattfinden
 
-Unterweisungen müssen **dokumentiert** werden — rechtliche Pflicht, nicht nur Empfehlung. Was bei fehlenden Unterweisungsnachweisen droht: [Bußgeld bei fehlender Unterweisung](/blog/bussgeld-fehlende-unterweisung)
+Unterweisungen müssen **dokumentiert** werden (§ 4 Abs. 1 DGUV Vorschrift 1) — rechtliche Pflicht, nicht nur Empfehlung. Was bei fehlenden Unterweisungsnachweisen droht: [Bußgeld bei fehlender Unterweisung](/blog/bussgeld-fehlende-unterweisung)
 
 ### §13 – Verantwortliche Personen
 
@@ -103,11 +103,11 @@ Diese Beschäftigtenpflichten schränken die Haftung des Arbeitgebers ein — ab
 
 | Verstoß | Sanktion |
 |---|---|
-| Unterlassene Gefährdungsbeurteilung | Bußgeld bis 5.000 € |
-| Fehlende Dokumentation (§6) | Bußgeld bis 2.500 € |
-| Fehlende Unterweisung | Bußgeld bis 5.000 € |
-| Wiederholter Verstoß | Bußgeld bis 25.000 € |
-| Vorsätzlicher Verstoß mit Gesundheitsschaden | Straftat — Freiheitsstrafe bis 1 Jahr |
+| Unterlassene Gefährdungsbeurteilung, soweit eine Verordnung auf § 25 verweist (z. B. BetrSichV) | Bußgeld bis 5.000 € |
+| Fehlende Dokumentation, soweit eine Verordnung auf § 25 verweist (z. B. BetrSichV) | Bußgeld bis 5.000 € |
+| Fehlende Unterweisung, soweit eine Verordnung auf § 25 verweist (z. B. BetrSichV, BioStoffV) | Bußgeld bis 5.000 € |
+| Verstoß gegen eine vollziehbare Anordnung der Behörde (§ 22 Abs. 3) | Bußgeld bis 30.000 € |
+| Vorsätzlicher Verstoß, der Leben oder Gesundheit eines Beschäftigten gefährdet, oder beharrlich wiederholter Anordnungsverstoß (§ 26) | Straftat — Freiheitsstrafe bis 1 Jahr oder Geldstrafe |
 
 Die Bußgelder gelten **pro Verstoß** und können sich bei vielen Mitarbeitern multiplizieren.
 
@@ -115,13 +115,13 @@ Lesen Sie auch: [Vollständige Checkliste Arbeitsschutzpflichten für Arbeitgebe
 
 ## Was hat sich 2025/2026 geändert?
 
-Das ArbSchG selbst wurde zuletzt 2021 überarbeitet. Für 2025/2026 gelten insbesondere folgende Entwicklungen:
+Das ArbSchG selbst wurde zuletzt durch Gesetz vom 22.12.2025 geändert (BGBl. 2025 I Nr. 369). Für 2025/2026 gelten insbesondere folgende Entwicklungen:
 
 **Psychische Belastungen stärker im Fokus**
 Gewerbeaufsichtsämter und Berufsgenossenschaften prüfen psychische Belastungen zunehmend aktiv. "Kein Handlungsbedarf festgestellt" als pauschale Dokumentation wird kritischer gesehen.
 
 **Digitale Unterweisungen etabliert**
-Digitale Unterweisungen und elektronische Unterschriften sind seit Jahren anerkannt und werden zunehmend als Standard betrachtet.
+Digitale Unterweisungen sind für viele Themen möglich: Für die Dokumentation schreibt die DGUV Vorschrift 1 weder Form noch Unterschrift vor (DGUV Regel 100-001 Nr. 2.3.1). Wo Verordnungen eine Unterschrift verlangen (GefStoffV, BioStoffV, StrlSchV), regeln sie nicht, ob eine elektronische Bestätigung genügt — das sollten Betriebe mit der zuständigen Behörde klären.
 
 **Homeoffice-Gefährdungsbeurteilung**
 Regelmäßige Arbeit im Homeoffice muss in die Gefährdungsbeurteilung einbezogen werden — einschließlich Bildschirmarbeitsplatzbewertung und ergonomischer Hinweise.
@@ -143,7 +143,7 @@ Safe Forward unterstützt die Erfüllung aller zentralen ArbSchG-Pflichten:
 ## Häufige Fragen (FAQ)
 
 **Gilt das ArbSchG auch für Selbstständige ohne Mitarbeiter?**
-Nein. Das ArbSchG gilt für Arbeitgeber gegenüber ihren Beschäftigten. Solo-Selbstständige ohne Mitarbeiter haben keine ArbSchG-Pflichten als Arbeitgeber — wohl aber ggf. nach spezielleren Regelwerken (z.B. BauArbSchV auf Baustellen).
+Nein. Das ArbSchG gilt für Arbeitgeber gegenüber ihren Beschäftigten. Solo-Selbstständige ohne Mitarbeiter haben keine ArbSchG-Pflichten als Arbeitgeber — wohl aber ggf. nach spezielleren Regelwerken (z.B. § 6 BaustellV auf Baustellen).
 
 **Ist das ArbSchG dasselbe wie die DGUV Vorschrift 1?**
 Nein. Das ArbSchG ist staatliches Recht, die DGUV Vorschrift 1 ist eine Unfallverhütungsvorschrift der Berufsgenossenschaften. Beide gelten parallel — mit unterschiedlichen Behörden und Sanktionsmechanismen.
