@@ -186,7 +186,7 @@ Lesen Sie auch: [Digitale Sicherheitsunterweisung — so geht's richtig](/blog/d
 Ja, als Ausgangspunkt. Aber Sie müssen die Vorlage auf Ihre konkreten Arbeitsbereiche und Tätigkeiten anpassen. Eine generische Vorlage allein erfüllt nicht die gesetzliche Anforderung der tätigkeitsbezogenen Beurteilung.
 
 **Gibt es offizielle Vorlagen der Berufsgenossenschaften?**
-Ja. Die meisten Berufsgenossenschaften stellen branchenspezifische Vorlagen und Hilfsmittel kostenlos zur Verfügung. Diese sind auf die typischen Gefährdungen in Ihrer Branche zugeschnitten und ein guter Ausgangspunkt.
+Ja. Die meisten Berufsgenossenschaften stellen branchenspezifische Vorlagen und Hilfsmittel kostenlos zur Verfügung. Diese sind auf die typischen Gefährdungen in Ihrer Branche zugeschnitten und ein guter Ausgangspunkt. Für Arzt- und Zahnarztpraxen haben wir die typischen Gefährdungen in einem eigenen Ratgeber zusammengestellt: [Gefährdungsbeurteilung in der Arzt- und Zahnarztpraxis](https://www.safe-forward.de/ratgeber/gefaehrdungsbeurteilung-arztpraxis).
 
 **Muss jeder Mitarbeiter die Gefährdungsbeurteilung unterschreiben?**
 Nein. Die GBU unterschreibt die beurteilende Person und ggf. der Sicherheitsbeauftragte. Mitarbeiter bestätigen Kenntnisnahme typischerweise in der Unterweisung, nicht in der GBU selbst.

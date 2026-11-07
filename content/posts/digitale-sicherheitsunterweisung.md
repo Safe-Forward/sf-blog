@@ -45,7 +45,7 @@ Wichtig: Die [Nachweispflicht bei Unterweisungen](/blog/unterweisung-nachweispfl
 - Unterweisungen bei komplexen körperlichen Tätigkeiten
 - Erweiterter Brandschutz (Feuerlöscherübung)
 
-**Hybridmodell**: In der Praxis bewährt sich eine Kombination — theoretischer Teil digital, praktische Elemente in Präsenz.
+**Hybridmodell**: In der Praxis bewährt sich eine Kombination — theoretischer Teil digital, praktische Elemente in Präsenz. Welche Unterweisungen etwa in einer Zahnarztpraxis mündlich und mit Unterschrift laufen müssen, zeigt unser Ratgeber [Unterweisung in der Zahnarztpraxis](https://www.safe-forward.de/ratgeber/unterweisung-zahnarztpraxis).
 
 ## Wie funktioniert eine rechtssichere digitale Unterweisung?
 

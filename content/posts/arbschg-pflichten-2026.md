@@ -149,7 +149,7 @@ Nein. Das ArbSchG gilt für Arbeitgeber gegenüber ihren Beschäftigten. Solo-Se
 Nein. Das ArbSchG ist staatliches Recht, die DGUV Vorschrift 1 ist eine Unfallverhütungsvorschrift der Berufsgenossenschaften. Beide gelten parallel — mit unterschiedlichen Behörden und Sanktionsmechanismen.
 
 **Wer kontrolliert die Einhaltung des ArbSchG?**
-Die staatlichen Arbeitsschutzbehörden — in den meisten Bundesländern das Gewerbeaufsichtsamt oder das Landesamt für Arbeitsschutz. Die Berufsgenossenschaften kontrollieren die Einhaltung der DGUV Vorschriften.
+Die staatlichen Arbeitsschutzbehörden — in den meisten Bundesländern das Gewerbeaufsichtsamt oder das Landesamt für Arbeitsschutz. Die Berufsgenossenschaften kontrollieren die Einhaltung der DGUV Vorschriften. Worauf Behörden bei einer Begehung achten, zeigt unsere [Checkliste zur Praxisbegehung](https://www.safe-forward.de/ratgeber/praxisbegehung-checkliste) am Beispiel der Zahnarztpraxis.
 
 **Kann ich Arbeitsschutzpflichten vollständig auf einen Mitarbeiter übertragen?**
 Nein. §13 erlaubt die Übertragung konkreter Aufgaben auf geeignete Personen. Die Gesamtverantwortung verbleibt beim Arbeitgeber. Wer nicht sicherstellt, dass die beauftragten Personen tatsächlich handeln, haftet trotz Übertragung.

@@ -133,7 +133,7 @@ Die Anforderungen der DGUV Vorschrift 1 — Gefährdungsbeurteilung, Unterweisun
 Ja. Die Vorschrift gilt für alle BG-Mitglieder ohne Ausnahme nach Betriebsgröße. Schwellenwerte gibt es nur bei einzelnen Pflichten, etwa bei Sicherheitsbeauftragten, Ersthelfern (§ 26) oder Erste-Hilfe-Räumen (§ 25 Abs. 4).
 
 **Wer prüft die Einhaltung der DGUV Vorschrift 1?**
-Die Berufsgenossenschaft führt Betriebsbesichtigungen durch und kann Auflagen erteilen oder Bußgelder verhängen. Zusätzlich prüft das staatliche Gewerbeaufsichtsamt nach dem ArbSchG.
+Die Berufsgenossenschaft führt Betriebsbesichtigungen durch und kann Auflagen erteilen oder Bußgelder verhängen. Zusätzlich prüft das staatliche Gewerbeaufsichtsamt nach dem ArbSchG. Welche Unterlagen bei einer Begehung bereitliegen sollten, zeigt unsere [Checkliste zur Praxisbegehung](https://www.safe-forward.de/ratgeber/praxisbegehung-checkliste) am Beispiel der Zahnarztpraxis.
 
 **Was ist der Unterschied zwischen einem Sicherheitsbeauftragten und einer Fachkraft für Arbeitssicherheit?**
 Die Fachkraft für Arbeitssicherheit (Sifa) ist eine externe oder interne Fachperson mit spezifischer Ausbildung und gesetzlicher Beratungspflicht (ASiG). Der Sicherheitsbeauftragte ist ein Mitarbeiter aus dem Betrieb, der die Sicherheitsarbeit unterstützt — keine Ausbildung als Sifa notwendig.

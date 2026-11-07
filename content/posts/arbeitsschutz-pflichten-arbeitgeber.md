@@ -95,7 +95,7 @@ Das Arbeitsschutzrecht in Deutschland ist mehrschichtig:
 
 ### ✅ 9. Gefahrstoffe
 
-- [ ] Gefahrstoffverzeichnis aktuell geführt (GefStoffV §6)
+- [ ] [Gefahrstoffverzeichnis](https://www.safe-forward.de/ratgeber/gefahrstoffverzeichnis) aktuell geführt (GefStoffV §6)
 - [ ] Sicherheitsdatenblätter vorhanden und zugänglich
 - [ ] Betriebsanweisungen für alle Gefahrstoffe erstellt
 - [ ] Gefahrstoffunterweisung mind. jährlich durchgeführt und dokumentiert

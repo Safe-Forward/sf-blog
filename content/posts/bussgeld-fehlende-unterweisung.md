@@ -83,7 +83,7 @@ In der Praxis reagieren die meisten Prüfer zunächst mit Beratung und Fristsetz
 Die drei wichtigsten Schutzmaßnahmen:
 
 **1. Lückenlosen Nachweis führen**
-Jede Unterweisung wird dokumentiert — mit Datum, Inhalt, Unterweiser und individueller Unterschrift jedes Teilnehmers.
+Jede Unterweisung wird dokumentiert — mit Datum, Inhalt, Unterweiser und individueller Unterschrift jedes Teilnehmers. Ein Beispiel ist unsere [Vorlage Unterweisungsnachweis für Zahnarztpraxen (PDF)](https://www.safe-forward.de/vorlagen/unterweisungsnachweis-zahnarztpraxis.pdf).
 
 **2. Fälligkeiten aktiv überwachen**
 Ein System, das Wiederholungsunterweisungen automatisch plant und erinnert, verhindert vergessene Jahresunterweisungen.

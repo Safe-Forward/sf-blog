@@ -52,6 +52,8 @@ Für jeden Arbeitsbereich fragen Sie systematisch: Was kann hier schiefgehen? Di
 | Psychische Belastungen | Zeitdruck, Schichtarbeit, Mobbing |
 | Ergonomische Gefährdungen | Heben, Tragen, Zwangshaltungen |
 
+Welche Gefährdungen in Arzt- und Zahnarztpraxen typisch sind, zeigt unser Ratgeber [Gefährdungsbeurteilung in der Arzt- und Zahnarztpraxis](https://www.safe-forward.de/ratgeber/gefaehrdungsbeurteilung-arztpraxis).
+
 Beziehen Sie Ihre Mitarbeiter aktiv ein — sie kennen die tatsächlichen Risiken an ihrem Arbeitsplatz oft besser als die Führungsebene.
 
 ### Schritt 3: Gefährdungen beurteilen
